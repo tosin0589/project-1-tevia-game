@@ -1,0 +1,22 @@
+{
+  "name": "project-1",
+  "version": "0.1.0",
+  "description": "tevia-game",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"},
+    "start": "node server.js",
+  "keywords": [],
+  "author": "Tosin Kasaba",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.1.2",
+    "chalk-animation": "^2.0.3",
+    "express": "^4.18.2",
+    "figlet": "^1.5.2",
+    "inquirer": "^9.1.4",
+    "node-fetch": "^3.2.10",
+    "readline-sync": "^1.4.10"
+  }
+}

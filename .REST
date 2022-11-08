@@ -1,0 +1,12 @@
+GET http://localhost:5000/welcome
+
+###
+GET http://localhost:5000/userName?name=
+
+
+###
+GET http://localhost:5000/questions
+
+###
+GET http://localhost:5000/currrentQuestion
+x
